@@ -14,3 +14,5 @@ eclipse
 
 -사용한 언어
 JAVA(1.8.0버전)
+
+* ppt 보기 [Link]https://docs.google.com/presentation/d/1P49CBrxfheycLyRSv49xHG1GniZw7mgwTtQ2B6FJNNU/edit?usp=sharing
